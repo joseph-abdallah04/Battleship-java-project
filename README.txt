@@ -1,1 +1,1 @@
-This project was a simple java project aimed at practicing object-oriented programming and software design
+Java Battleship game for Programming 41039 Assignment 3
